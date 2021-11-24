@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+font-family: 'Open Sans', sans-serif;
+}
+
+
+body {
+    background: url(deadend.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover; 
+    -o-background-size: cover;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color : slategrey;
+}
